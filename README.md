@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Mullet 👋
 
-<!--
-**marshmallow868/marshmallow868** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 16-year-old student from Germany. Formerly focused on Web Development and Python, I am now specializing in Swift for macOS utilities and Rust for backend systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Focus
+* **Swift:** Native desktop applications for macOS.
+* **Rust:** High-performance backend development.
+* **General:** Python, JavaScript, and systems programming.
+
+### Current Projects
+I build functional tools for Mac users and explore new languages to understand different programming paradigms.
+
+---
+
+### Contact
+Review my repositories below or open an issue for feedback and collaboration.
