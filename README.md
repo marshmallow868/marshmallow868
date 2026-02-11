@@ -10,7 +10,7 @@ I'm Mullet, a 16-year-old student from Germany. Formerly focused on Web Developm
 * **General:** Python, JavaScript, and systems programming.
 
 #### Current Projects
-I build functional tools for Mac users and explore new languages to understand different programming paradigms.
+I develop functional macOS utilities while exploring new programming languages to broaden my understanding of software architecture.
 
 ---
 
