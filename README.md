@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Mullet (Moo·lett), a 16-year-old student from Germany. Formerly focused on Web Development and Python, I am now specializing in Swift for macOS utilities and Rust for backend systems.
+I'm Mullet (Moo·lett), a 16-year-old student from Germany. Formerly focused on Web Development and Python, I am now specializing in Swift for macOS and iOS utilities and Rust for backend systems.
 
 ---
 
